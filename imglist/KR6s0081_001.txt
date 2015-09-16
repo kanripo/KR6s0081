@@ -1,0 +1,5 @@
+001-1286c00	T 001-1286c	buddhist/T-taisho/T54/12/T54-1286.png
+001-1287a00	T 001-1287a	buddhist/T-taisho/T54/12/T54-1287.png
+001-1287b00	T 001-1287b	buddhist/T-taisho/T54/12/T54-1287.png
+001-1287c00	T 001-1287c	buddhist/T-taisho/T54/12/T54-1287.png
+001-1288a00	T 001-1288a	buddhist/T-taisho/T54/12/T54-1288.png
