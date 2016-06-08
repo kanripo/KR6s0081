@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:44.778673
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:36
 #+TITLE: 序聽迷詩所經
 #+PROPERTY: CBETA_ID T54n2142
 #+PROPERTY: ID KR6s0081
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 54, No. 2142
 #+PROPERTY: VOL 54
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0081_T_001-1286b> 
 #+PROPERTY: JUAN 1
 ¶
-No.2142¶
-
- 序聽迷詩所經一卷¶
+No. 2142¶
+序聽迷詩所經一卷¶
 ¶
 
 爾時彌師訶說天尊序娑法云。異見多少誰¶
